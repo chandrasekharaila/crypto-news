@@ -115,7 +115,7 @@ http://127.0.0.1:8000
 # Run Streamlit Dashboard
 
 ```bash
-streamlit run dashboard/app.py
+streamlit run dashboard/dashboard.py
 ```
 
 Dashboard runs on:
