@@ -47,7 +47,7 @@ crypto-news/
 │   └── main.py
 │
 ├── dashboard/
-│   └── app.py
+│   └── dashboard.py
 │
 ├── output/
 │   └── crypto_news.json
